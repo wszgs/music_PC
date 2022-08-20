@@ -1,0 +1,30 @@
+{
+  "id": "3118157",
+  "name": "1123",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1159898",
+      "name": "随机播放",
+      "font_class": "suijibofang",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "6938867",
+      "name": "顺序播放",
+      "font_class": "shunxubofang",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "26415658",
+      "name": "循环播放",
+      "font_class": "xunhuanbofang",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    }
+  ]
+}
